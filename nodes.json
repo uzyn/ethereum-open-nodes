@@ -1,4 +1,5 @@
 [
   "http://eth2.augur.net",
-  "http://37.120.164.112:8545"
+  "http://37.120.164.112:8545",
+  "http://pub-node1.etherscan.io:8545"
 ]
